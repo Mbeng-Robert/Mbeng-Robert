@@ -80,6 +80,8 @@ I specialize in designing, deploying, and maintaining production environments, p
 | AWS Certified Security – Specialty | AWS |
 | AWS Certified Data Engineer – Associate | AWS |
 | Microsoft Certified: Azure Security Engineer Associate | Microsoft |
+| CompTIA CySA+ (Cybersecurity Analyst) | CompTIA |
+| CompTIA Security+ | CompTIA |
 
 ---
 
